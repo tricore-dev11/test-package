@@ -5,7 +5,7 @@ Add the following in composer.json
 ```
 "repositories": [
     ...
-    { "type": "vcs", "url": "https://github.com/EcommElite/product-advertising-package"}
+    { "type": "git", "url": "https://github.com/EcommElite/product-advertising-package.git"}
 ],
 ```
 
